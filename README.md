@@ -1,5 +1,5 @@
 # SuperStore-Sales-Data-Analysis
-[Dashboard Link]9https://www.novypro.com/project/superstore-sales-dashboard-power-bi-5)
+[Dashboard Link](https://www.novypro.com/project/superstore-sales-dashboard-power-bi-5)
 ![Slide1](https://github.com/AkashPissey/SuperStore-Sales-Data-Analysis/assets/148358076/f7780980-ce43-42ad-a1bd-41ee422f8dea)
 
 ![Slide2](https://github.com/AkashPissey/SuperStore-Sales-Data-Analysis/assets/148358076/f9ddc492-8170-4e7b-8f36-9add99189156)
